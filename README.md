@@ -1,14 +1,14 @@
 # # 🏆 Codeforces & Competitive Programming - Guía y Soluciones (Code Fest)
 
-Repositorio de preparación para el **Concurso de Programación Competitiva - Primera Edición (Code Fest)**[cite: 1]. Contiene soluciones comentadas en **Java** a problemas de **Codeforces**, enfocadas en lógica algorítmica, optimización de complejidad y buenas prácticas para jueces en línea.
+Repositorio de preparación para el **Concurso de Programación Competitiva - Primera Edición (Code Fest)**. Contiene soluciones comentadas en **Java** a problemas de **Codeforces**, enfocadas en lógica algorítmica, optimización de complejidad y buenas prácticas para jueces en línea.
 
 ---
 
 ## 📋 Reglas y Formato del Concurso
-* **Formato:** 5 problemas en 3 horas[cite: 1].
-* **Entorno:** Estilo programación competitiva, **sin IA, sin IDEs, únicamente terminal**[cite: 1].
-* **Lenguajes permitidos:** Java, Python y C/C++[cite: 1].
-* **Plataforma:** Codeforces[cite: 1].
+* **Formato:** 5 problemas en 3 horas.
+* **Entorno:** Estilo programación competitiva, **sin IA, sin IDEs, únicamente terminal**.
+* **Lenguajes permitidos:** Java, Python y C/C++.
+* **Plataforma:** Codeforces.
 
 ---
 
@@ -31,7 +31,7 @@ Repositorio de preparación para el **Concurso de Programación Competitiva - Pr
 
 ## 💻 Flujo de Trabajo en Terminal (Sin IDE)
 
-Dado que el concurso se desarrolla únicamente en terminal[cite: 1], utiliza estos comandos para compilar y probar tus soluciones rápidamente:
+Dado que el concurso se desarrolla únicamente en terminal, utiliza estos comandos para compilar y probar tus soluciones rápidamente:
 
 ### 1. Compilar y ejecutar manualmente
 ```bash

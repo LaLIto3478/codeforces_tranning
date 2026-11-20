@@ -19,6 +19,9 @@ Repositorio de preparación para el **Concurso de Programación Competitiva - Pr
 | **Good Contest** (Minimizar participantes débiles) | `GoodContest.java` | Greedy / Teoría de Conjuntos (`min`) | $O(1)$ por caso | $O(1)$ |
 | **Choosing Teams** (Formación de equipos ICPC) | `ChoosingTeams.java` | Procesamiento al vuelo (*Streaming*) / Greedy | $O(n)$ | $O(1)$ |
 
+* Link de GoodContest [https://codeforces.com/contest/2266/problem/A]
+* Link de Choosing Teams [https://codeforces.com/contest/432/problem/A]
+
 ---
 
 ## ⚡ Reglas de Oro para Codeforces (Java)
